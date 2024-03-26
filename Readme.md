@@ -1,0 +1,1 @@
+Aqui estão os exercícios práticados no curso de ADS.
