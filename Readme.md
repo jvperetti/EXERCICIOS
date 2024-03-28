@@ -1,1 +1,1 @@
-Aqui estão os exercícios práticados no curso de ADS.
+Aqui estão alguns exercícios interessantes práticados no curso de ADS.
